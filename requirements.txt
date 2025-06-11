@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+pymupdf
+langchain
+faiss-cpu
+sentence-transformers
+python-docx
+trafilatura
+pytesseract
+pillow
+langchain-community
+tqdm
+langdetect
+numpy
+scikit-learn
+scipyreadability-lxml html2text lxml

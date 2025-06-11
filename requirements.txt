@@ -13,4 +13,4 @@ tqdm
 langdetect
 numpy
 scikit-learn
-scipyreadability-lxml html2text lxml
+scipy
